@@ -1,0 +1,40 @@
+<ul><li>/home/zebo/Desktop
+<ul><li>	/home/zebo/Desktop/ECE_UNIX
+<ul><li>		/home/zebo/Desktop/ECE_UNIX/Project1
+<ul><li>			out.html
+<li>			mapFiles.sh
+<li>			mapFiles_html.sh
+</ul><li>		/home/zebo/Desktop/ECE_UNIX/Project3
+<ul><li>			/home/zebo/Desktop/ECE_UNIX/Project3/ECE-UNIX-project3
+<ul><li>				mapFiles.py
+<li>				README.md
+<li>				out.txt
+</ul></ul><li>		/home/zebo/Desktop/ECE_UNIX/Project2
+<ul><li>			main.c
+<li>			project2.zip
+<li>			test2.txt
+<li>			test3.txt
+<li>			Makefile
+<li>			stack.h
+<li>			stack.o
+<li>			check_balance
+<li>			stack.c
+<li>			main.o
+<li>			test1.txt
+</ul></ul></ul><li>/home/zebo/Pictures
+<ul></ul><li>/home/zebo/Templates
+<ul></ul><li>/home/zebo/TEST
+<ul><li>	three.mybackup
+<li>	one
+<li>	three
+<li>	two.mybackup
+<li>	two
+<li>	one.mybackup
+</ul><li>/home/zebo/Documents
+<ul><li>	/home/zebo/Documents/doc1
+<ul></ul></ul><li>/home/zebo/Videos
+<ul></ul><li>/home/zebo/Public
+<ul></ul><li>/home/zebo/Downloads
+<ul></ul><li>/home/zebo/Music
+<ul></ul><li>TEST.mybackup
+</ul>
